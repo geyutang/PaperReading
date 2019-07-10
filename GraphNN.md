@@ -2,4 +2,4 @@
 
 2.GraphSAGE: Inductive Representation Learning on Large Graphs
 
-3. Hierarchical Graph Convolutional Networks for Semi-supervised Node Classification
+3.Hierarchical Graph Convolutional Networks for Semi-supervised Node Classification
