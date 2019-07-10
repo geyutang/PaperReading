@@ -1,1 +1,1 @@
-DeepWalk: Online Learning of Social Representations
+DeepWalk: Online Learning of Social Representations :ok_hand:
