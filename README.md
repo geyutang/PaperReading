@@ -5,4 +5,7 @@ Recode the paper have read.
 
 add graph neural network paper
 
+7/12 2019 
+add person reid paper and re-rank4reid
+
 
