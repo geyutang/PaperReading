@@ -8,4 +8,5 @@ add graph neural network paper
 7/12 2019 
 add person reid paper and re-rank4reid
 
-
+7/14 2019
+add two paper for person reid
