@@ -6,4 +6,6 @@
 
 4.Unsupervised Domain Adaptation with Residual Transfer Networks (:ok_hand)
 
-5.Deep transfer learning with joint adaptation networks (:ok_hand)
+5.Deep transfer learning with joint adaptation networks (!ok_hand)
+
+6.Universal Domain Adaptation
