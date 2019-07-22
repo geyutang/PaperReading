@@ -9,3 +9,5 @@
 5.Deep transfer learning with joint adaptation networks (!ok_hand)
 
 6.Universal Domain Adaptation
+
+7.unsupervised domian adaptation for distance metric learning
